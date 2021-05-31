@@ -80,7 +80,7 @@ body {
 .clock .hand.minute {
   width: 7px;
   height: 40%;
-  background-color: black;
+  background-color: grey;
 }
 
 .clock .hand.hour {
