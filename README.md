@@ -1,6 +1,6 @@
 # JavaScript-Clock using HTML CSS and JavaScript
 
-Click on link below To view this project :- ![image](https://user-images.githubusercontent.com/80676763/172301202-92c5beb8-38b8-45d1-85a0-23a4ae53873c.png)
+Click on link below To view this project :- 
 
 
 Preview:
